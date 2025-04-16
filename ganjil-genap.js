@@ -11,10 +11,10 @@ switch (true){
         console.log("lolos")
         break;
 
-        case genap:
+    case genap:
             console.log("lolos")
             break;
 
-            default:
-                console.log("tidak boleh lewat")
+    default:
+        console.log("tidak boleh lewat")
 }
