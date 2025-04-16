@@ -1,27 +1,27 @@
 
-let ahmadSubarjo =
+let nilaiMurid =
 (prompt('masukan nilai kamu'))
     
 
 
 switch (true){
-    case(ahmadSubarjo >= 90):
+    case(nilaiMurid >= 90):
     alert ('mendapat nilai A')
     break;
 
-    case(ahmadSubarjo >= 80):
+    case(nilaiMurid >= 80):
     alert ('mendapat nilai B')
     break;
     
-    case(ahmadSubarjo >= 70):
+    case(nilaiMurid >= 70):
     alert ('mendapat nilai C')
     break;
 
-    case(ahmadSubarjo >= 60):
+    case(nilaiMurid >= 60):
     alert ('mendapat nilai D')
     break;
 
-    case(ahmadSubarjo <= 60):
+    case(nilaiMurid <= 60):
     alert ('mendapat nilai E')
     break;
 
